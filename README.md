@@ -9,7 +9,7 @@ O fluxograma do processo e arquitetura criados para o projeto estão no arquivo 
 
 ## Sobre a escolha da arquitetura e plataforma de cloud
   Levando em consideração o documento inicial que foi passado existiam inúmeras possibilidades de resolver esse problema. Algumas mais simples e menos automatizadas, outras totalmente automatizadas, porém muito mais complexas.
-  <br /> Optei pela utilização da Google Cloud Plataform (GCP), pois é a que considero de usabilidade mais fácil, o que seria muito útil, tendo em vista o prazo de entrega do projeto.
+  <br /> Optei pela utilização da Google Cloud Plataform (GCP), pois é a que considero de usabilidade mais fácil, o que foi muito útil, tendo em vista o prazo de entrega do projeto.
   <br /> Nela utilizei 3 recursos, sendo eles:
   <br /> 1 - Cloud Storage
   <br /> 2 - Cloud Functions
