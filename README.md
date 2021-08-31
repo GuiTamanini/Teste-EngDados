@@ -21,7 +21,9 @@ O fluxograma do processo e arquitetura criados para o projeto estão no arquivo 
 Uma vez que os dados estavam tratados e inseridos, criei querys que realizam as consultas pedidas no documento inicial do projeto.
 
 ## Observações finais
-O projeto AINDA não se encontra no seu melhor estado de performance. É possível automatizar o upload dos arquivos CSV para o bucket também por meio de uma segunda Cloud Function. A função responsável pelo tratamento e armazenamento dos dados também não está em sua melhor forma, uma vez que caso fosse utilizado a biblioteca "Pandas" seria possível normalizar de forma mais eficaz os dados. (Tentei utiliza-la, porém encontrei alguns obstáculos no caminho e devido ao tempo de entrega, resolvi abandona-la)
+O projeto AINDA não se encontra no seu melhor estado de performance. É possível automatizar o upload dos arquivos CSV para o bucket também por meio de uma segunda Cloud Function. <br />
+A função responsável pelo tratamento e armazenamento dos dados também não está em sua melhor forma, uma vez que caso fosse utilizado a biblioteca "Pandas" seria possível normalizar de forma mais eficaz os dados. (Tentei utiliza-la, porém encontrei alguns obstáculos no caminho e devido ao tempo de entrega, resolvi abandona-la) 
+<br />
 Também é possível automatizar a saída de dados e a geração de relatórios utilizando outras funcionalidades presentes na GCP e no PowerBI.
 <br />
 <br />
